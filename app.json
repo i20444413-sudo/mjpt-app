@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "이민준 PT",
+    "slug": "mjpt-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#111827"
+    },
+    "android": {
+      "package": "com.mjpt.app"
+    },
+    "ios": {
+      "bundleIdentifier": "com.mjpt.app"
+    }
+  }
+}
