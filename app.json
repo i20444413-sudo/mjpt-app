@@ -13,6 +13,10 @@
     },
     "ios": {
       "bundleIdentifier": "com.mjpt.app"
-    }
+    },
+    "plugins": [
+      "expo-status-bar",
+      "expo-video"
+    ]
   }
 }
